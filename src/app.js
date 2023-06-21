@@ -14,5 +14,5 @@ app.use("/usuario", userRouter)
 
 import catRouter from "./routes/catRouter.js"
 app.use("/categoria", catRouter)
-
+ 
 export default app
